@@ -1,3 +1,4 @@
+#editing the file on git hub
 class checkregister:
     def __init__(self,name,lastname,username,password,mail,mobile,code):
         self.name=name
